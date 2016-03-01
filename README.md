@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+This is minti, a wannabe game designer.
+
